@@ -2,7 +2,7 @@
 Player control in 2D memory map.
 
 & = Player
-+ = Wall
+'+' = Wall
 
 Keys
 Q = Exit
